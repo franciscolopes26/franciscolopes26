@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./header.svg" alt="Amir Alizadeh">
+    Hey, My name is
 </div>
 
 My name is **Amir Alizadeh** and I'm a web backend developer.
