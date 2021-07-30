@@ -4,7 +4,7 @@ My name is **Francisco Lopes** and I'm a web backend developer.
 
 I using PHP/Laravel to develop back-end and I'm familiar with JavaScript/Vue.js to develop front-end.
 
-I'm interested in new technology and blockchain.
+I'm interested in new technology especially blockchain.
 
 My favorite code editor is VSCode .
 
