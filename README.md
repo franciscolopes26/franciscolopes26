@@ -6,7 +6,7 @@ I using PHP/Laravel to develop back-end and I'm familiar with JavaScript/Vue.js 
 
 I'm interested in new technology especially blockchain.
 
-My favorite code editor is VSCode .
+My favorite IDE is VSCode .
 
 ---
 <h2 align="center">Connect with me</h2>
