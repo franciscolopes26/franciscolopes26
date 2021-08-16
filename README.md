@@ -2,7 +2,7 @@
 
 My name is **Francisco Lopes** and I'm a web backend developer.
 
-I using PHP/Laravel to develop back-end and I'm familiar with JavaScript/Vue.js to develop front-end.
+I using PHP/Laravel or python with flask  to develop back-end and I'm familiar with JavaScript/Vue.js/ angular to develop front-end.
 
 I'm interested in new technology especially blockchain.
 
