@@ -7,6 +7,7 @@ My name is **Francisco Lopes** and I'm a web backend developer.
 
 #### Back-end
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-404D59.svg?&style=for-the-badge&logo=express.js&logoColor=white"/> <img alt="Koa" src="https://img.shields.io/badge/Koa-33333D.svg?&style=for-the-badge&logo=koa&logoColor=white" /> <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" /> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img alt="Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+
 I'm interested in new technology especially blockchain.
 
 #### Testing
